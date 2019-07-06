@@ -1,7 +1,6 @@
 pandas
 sklearn
 numpy
-itertools 
 tensorflow
 keras
 pythainlp
